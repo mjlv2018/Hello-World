@@ -1,2 +1,2 @@
 # Hello-World
-I trying to get introduced in PC and neteoking security
+I trying to get introduced in PC and netwok security
